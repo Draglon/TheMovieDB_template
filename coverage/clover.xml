@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1562158511955" clover="3.2.0">
+  <project timestamp="1562158511955" name="All files">
+    <metrics statements="208" coveredstatements="175" conditionals="88" coveredconditionals="59" methods="88" coveredmethods="58" elements="384" coveredelements="292" complexity="0" loc="208" ncloc="208" packages="27" files="71" classes="71"/>
+    <package name="apiClient">
+      <metrics statements="5" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="client.js" path="/home/dell/RubyGarage/Template_react_webpack/app/apiClient/client.js">
+        <metrics statements="5" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="containers.App">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="component.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/App/component.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="containers.CreateList">
+      <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="component.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/CreateList/component.jsx">
+        <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="containers.Dashboard">
+      <metrics statements="7" coveredstatements="4" conditionals="8" coveredconditionals="8" methods="4" coveredmethods="1"/>
+      <file name="component.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/Dashboard/component.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+      </file>
+      <file name="container.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/Dashboard/container.jsx">
+        <metrics statements="5" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+      </file>
+      <file name="index.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/Dashboard/index.jsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="containers.Favorites">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="component.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/Favorites/component.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="container.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/Favorites/container.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+      <file name="index.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/Favorites/index.jsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="containers.Header">
+      <metrics statements="9" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="2"/>
+      <file name="component.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/Header/component.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+      </file>
+      <file name="container.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/Header/container.jsx">
+        <metrics statements="5" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+      </file>
+      <file name="index.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/Header/index.jsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="containers.Home">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="1"/>
+      <file name="component.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/Home/component.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="6" count="2" type="cond" truecount="2" falsecount="0"/>
+      </file>
+      <file name="container.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/Home/container.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="index.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/Home/index.jsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="containers.LoginForm">
+      <metrics statements="8" coveredstatements="5" conditionals="4" coveredconditionals="0" methods="4" coveredmethods="1"/>
+      <file name="component.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/LoginForm/component.jsx">
+        <metrics statements="6" coveredstatements="3" conditionals="4" coveredconditionals="0" methods="3" coveredmethods="1"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+      </file>
+      <file name="container.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/LoginForm/container.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+      </file>
+      <file name="index.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/LoginForm/index.jsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="containers.Movie">
+      <metrics statements="10" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="1"/>
+      <file name="component.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/Movie/component.jsx">
+        <metrics statements="4" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="1"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="87" count="0" type="stmt"/>
+      </file>
+      <file name="container.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/Movie/container.jsx">
+        <metrics statements="6" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+      </file>
+      <file name="index.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/Movie/index.jsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="containers.MovieDetails">
+      <metrics statements="5" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="1"/>
+      <file name="component.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/MovieDetails/component.jsx">
+        <metrics statements="5" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="1"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+      </file>
+      <file name="index.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/MovieDetails/index.jsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="containers.MovieItem">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="component.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/MovieItem/component.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+      <file name="index.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/MovieItem/index.jsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="containers.MovieList">
+      <metrics statements="3" coveredstatements="2" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="1"/>
+      <file name="component.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/MovieList/component.jsx">
+        <metrics statements="3" coveredstatements="2" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="1"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+      <file name="index.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/MovieList/index.jsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="containers.MyLists">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="component.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/MyLists/component.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="container.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/MyLists/container.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+      <file name="index.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/MyLists/index.jsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="containers.NotFound">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="component.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/NotFound/component.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="index.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/NotFound/index.jsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="containers.Pagination">
+      <metrics statements="3" coveredstatements="2" conditionals="4" coveredconditionals="1" methods="2" coveredmethods="1"/>
+      <file name="component.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/Pagination/component.jsx">
+        <metrics statements="3" coveredstatements="2" conditionals="4" coveredconditionals="1" methods="2" coveredmethods="1"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+      <file name="index.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/Pagination/index.jsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="containers.PrivateRoute">
+      <metrics statements="3" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="component.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/PrivateRoute/component.jsx">
+        <metrics statements="3" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="9" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+      <file name="index.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/PrivateRoute/index.jsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="containers.Search">
+      <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="component.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/Search/component.jsx">
+        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+      </file>
+      <file name="index.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/Search/index.jsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="containers.Watchlist">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="component.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/Watchlist/component.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="container.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/Watchlist/container.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+      <file name="index.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/containers/Watchlist/index.jsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="helpers">
+      <metrics statements="21" coveredstatements="15" conditionals="15" coveredconditionals="2" methods="4" coveredmethods="3"/>
+      <file name="cookie.js" path="/home/dell/RubyGarage/Template_react_webpack/app/helpers/cookie.js">
+        <metrics statements="19" coveredstatements="13" conditionals="15" coveredconditionals="2" methods="2" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="24" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="25" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+      <file name="format.js" path="/home/dell/RubyGarage/Template_react_webpack/app/helpers/format.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="shared.forms.Button">
+      <metrics statements="2" coveredstatements="2" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="component.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/shared/forms/Button/component.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="4" count="5" type="cond" truecount="1" falsecount="0"/>
+        <line num="5" count="2" type="stmt"/>
+      </file>
+      <file name="index.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/shared/forms/Button/index.jsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="shared.forms.FormField">
+      <metrics statements="2" coveredstatements="2" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <file name="component.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/shared/forms/FormField/component.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="12" count="2" type="cond" truecount="4" falsecount="0"/>
+      </file>
+      <file name="index.jsx" path="/home/dell/RubyGarage/Template_react_webpack/app/shared/forms/FormField/index.jsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="store.theMovieDB.account">
+      <metrics statements="16" coveredstatements="15" conditionals="7" coveredconditionals="5" methods="6" coveredmethods="5"/>
+      <file name="actionTypes.js" path="/home/dell/RubyGarage/Template_react_webpack/app/store/theMovieDB/account/actionTypes.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+      </file>
+      <file name="actions.js" path="/home/dell/RubyGarage/Template_react_webpack/app/store/theMovieDB/account/actions.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+      </file>
+      <file name="reducers.js" path="/home/dell/RubyGarage/Template_react_webpack/app/store/theMovieDB/account/reducers.js">
+        <metrics statements="7" coveredstatements="7" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="15" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="16" count="4" type="cond" truecount="4" falsecount="0"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+      </file>
+      <file name="selectors.js" path="/home/dell/RubyGarage/Template_react_webpack/app/store/theMovieDB/account/selectors.js">
+        <metrics statements="3" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+    </package>
+    <package name="store.theMovieDB.list">
+      <metrics statements="17" coveredstatements="17" conditionals="5" coveredconditionals="5" methods="5" coveredmethods="5"/>
+      <file name="actionTypes.js" path="/home/dell/RubyGarage/Template_react_webpack/app/store/theMovieDB/list/actionTypes.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+      </file>
+      <file name="actions.js" path="/home/dell/RubyGarage/Template_react_webpack/app/store/theMovieDB/list/actions.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="reducers.js" path="/home/dell/RubyGarage/Template_react_webpack/app/store/theMovieDB/list/reducers.js">
+        <metrics statements="7" coveredstatements="7" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="13" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="14" count="5" type="cond" truecount="4" falsecount="0"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+      </file>
+      <file name="selectors.js" path="/home/dell/RubyGarage/Template_react_webpack/app/store/theMovieDB/list/selectors.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="store.theMovieDB.login">
+      <metrics statements="24" coveredstatements="24" conditionals="8" coveredconditionals="8" methods="9" coveredmethods="9"/>
+      <file name="actionTypes.js" path="/home/dell/RubyGarage/Template_react_webpack/app/store/theMovieDB/login/actionTypes.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+      </file>
+      <file name="actions.js" path="/home/dell/RubyGarage/Template_react_webpack/app/store/theMovieDB/login/actions.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+      </file>
+      <file name="reducers.js" path="/home/dell/RubyGarage/Template_react_webpack/app/store/theMovieDB/login/reducers.js">
+        <metrics statements="10" coveredstatements="10" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="11" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="12" count="8" type="cond" truecount="7" falsecount="0"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+      </file>
+      <file name="selectors.js" path="/home/dell/RubyGarage/Template_react_webpack/app/store/theMovieDB/login/selectors.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="store.theMovieDB.movie">
+      <metrics statements="16" coveredstatements="15" conditionals="7" coveredconditionals="5" methods="6" coveredmethods="5"/>
+      <file name="actionTypes.js" path="/home/dell/RubyGarage/Template_react_webpack/app/store/theMovieDB/movie/actionTypes.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+      </file>
+      <file name="actions.js" path="/home/dell/RubyGarage/Template_react_webpack/app/store/theMovieDB/movie/actions.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+      </file>
+      <file name="reducers.js" path="/home/dell/RubyGarage/Template_react_webpack/app/store/theMovieDB/movie/reducers.js">
+        <metrics statements="7" coveredstatements="7" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="27" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="28" count="4" type="cond" truecount="4" falsecount="0"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+      </file>
+      <file name="selectors.js" path="/home/dell/RubyGarage/Template_react_webpack/app/store/theMovieDB/movie/selectors.js">
+        <metrics statements="3" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+    </package>
+    <package name="store.theMovieDB.search">
+      <metrics statements="14" coveredstatements="14" conditionals="5" coveredconditionals="5" methods="5" coveredmethods="5"/>
+      <file name="actionTypes.js" path="/home/dell/RubyGarage/Template_react_webpack/app/store/theMovieDB/search/actionTypes.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+      </file>
+      <file name="actions.js" path="/home/dell/RubyGarage/Template_react_webpack/app/store/theMovieDB/search/actions.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+      </file>
+      <file name="reducers.js" path="/home/dell/RubyGarage/Template_react_webpack/app/store/theMovieDB/search/reducers.js">
+        <metrics statements="7" coveredstatements="7" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="15" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="16" count="4" type="cond" truecount="4" falsecount="0"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+      </file>
+      <file name="selectors.js" path="/home/dell/RubyGarage/Template_react_webpack/app/store/theMovieDB/search/selectors.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="store.theMovieDB.trending">
+      <metrics statements="14" coveredstatements="14" conditionals="5" coveredconditionals="5" methods="5" coveredmethods="5"/>
+      <file name="actionTypes.js" path="/home/dell/RubyGarage/Template_react_webpack/app/store/theMovieDB/trending/actionTypes.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+      </file>
+      <file name="actions.js" path="/home/dell/RubyGarage/Template_react_webpack/app/store/theMovieDB/trending/actions.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+      </file>
+      <file name="reducers.js" path="/home/dell/RubyGarage/Template_react_webpack/app/store/theMovieDB/trending/reducers.js">
+        <metrics statements="7" coveredstatements="7" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="14" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="15" count="4" type="cond" truecount="4" falsecount="0"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+      </file>
+      <file name="selectors.js" path="/home/dell/RubyGarage/Template_react_webpack/app/store/theMovieDB/trending/selectors.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="4" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

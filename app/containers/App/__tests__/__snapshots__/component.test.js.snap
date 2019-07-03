@@ -1,0 +1,90 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AppComponent /> component render property - isLogged: false 1`] = `
+<BrowserRouter>
+  <Adapter
+    className="page"
+  >
+    <Switch>
+      <Route
+        component={[Function]}
+        exact={true}
+        path="/"
+      />
+      <PrivateRouteComponent
+        component={[Function]}
+        exact={true}
+        isLogged={false}
+        path="/mylists"
+      />
+      <PrivateRouteComponent
+        component={[Function]}
+        exact={true}
+        isLogged={false}
+        path="/watchlist"
+      />
+      <PrivateRouteComponent
+        component={[Function]}
+        exact={true}
+        isLogged={false}
+        path="/favorites"
+      />
+      <PrivateRouteComponent
+        component={[Function]}
+        exact={true}
+        isLogged={false}
+        path="/movie/:id"
+      />
+      <PrivateRouteComponent
+        component={[Function]}
+        isLogged={false}
+      />
+    </Switch>
+  </Adapter>
+</BrowserRouter>
+`;
+
+exports[`<AppComponent /> component render property - isLogged: true 1`] = `
+<BrowserRouter>
+  <Connect(HeaderContainer) />
+  <Adapter
+    className="page"
+  >
+    <Switch>
+      <Route
+        component={[Function]}
+        exact={true}
+        path="/"
+      />
+      <PrivateRouteComponent
+        component={[Function]}
+        exact={true}
+        isLogged={true}
+        path="/mylists"
+      />
+      <PrivateRouteComponent
+        component={[Function]}
+        exact={true}
+        isLogged={true}
+        path="/watchlist"
+      />
+      <PrivateRouteComponent
+        component={[Function]}
+        exact={true}
+        isLogged={true}
+        path="/favorites"
+      />
+      <PrivateRouteComponent
+        component={[Function]}
+        exact={true}
+        isLogged={true}
+        path="/movie/:id"
+      />
+      <PrivateRouteComponent
+        component={[Function]}
+        isLogged={true}
+      />
+    </Switch>
+  </Adapter>
+</BrowserRouter>
+`;
